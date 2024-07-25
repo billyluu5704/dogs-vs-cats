@@ -1,0 +1,13 @@
+__pycache__/
+dataset_dogs_vs_cats/
+test1/
+train/
+code.py_plot.png
+dogs_vs_cats_labels.npy
+dogs_vs_cats_model.keras
+dogs_vs_cats_photos.npy
+sampleSubmission.csv
+test1.zip
+train.zip
+code.py
+test.py
